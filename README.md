@@ -17,8 +17,18 @@ You can [view the project on GitHub Pages](https://alikamel-dev.github.io/odin-r
 
 ## Concepts and skills practiced
 
-- Creating correctly structured HTML markup with basic boilerplate.
-- Correct use of basic HTML elements (headings, paragraphs, lists, links and images), including the correct use of ordered and unordered lists.
+- HTML
+  - Creating correctly structured markup with basic boilerplate.
+  - Correct use of basic HTML elements (headings, paragraphs, lists, links and images), including the correct use of ordered and unordered lists.
+
+  Details regarding the markup are provided in the [markup structure](#markup-structure) section.
+
+- CSS
+  - CSS basics: basic syntax, basic selectors and properties, compound selectors, the cascade, specificity, and inheritance.
+  - CSS box model and related properties, block and inline display modes.
+
+- Inspecting markup and styles using the built-in developer tools of web browsers.
+
 - Git: Create a new repository on GitHub, Clone a GitHub repository, Commit early and often with well-written commit messages.
 
 ## Project structure
